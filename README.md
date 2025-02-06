@@ -15,4 +15,5 @@
 https://xd.adobe.com/spec/ae4025b8-0f4b-4775-4fd9-480cb31faa76-d871/specs/ 
 
 ### Captura de pantalla
-![iguanas](https://github.com/user-attachments/assets/32f35f5f-83ef-4c83-aa01-d46d44be95e5)
+![iguanas](https://github.com/user-attachments/assets/12d5debc-fa4c-460a-a9a6-280e267dcd65)
+
