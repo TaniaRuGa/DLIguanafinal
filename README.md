@@ -7,12 +7,12 @@
 - Implementar estilos CSS, utilizando el modelo de cajas y las propiedades display, unidades de medida y estilos tipográficos avanzados, para la definición de aspectos visuales de una interfaz web.
 - Implementa estilos CSS, utilizando las propiedades display, unidades de medida y estilos tipográficos, para la definición de aspectos visuales de una interfaz web
 
-## Tecnologías utilizadas
+### Tecnologías utilizadas
 - HTML5.
 - CSS.
 
-## Maqueta 
+### Maqueta 
 https://xd.adobe.com/spec/ae4025b8-0f4b-4775-4fd9-480cb31faa76-d871/specs/ 
 
-## Captura de pantalla
+### Captura de pantalla
 ![iguanas](https://github.com/user-attachments/assets/32f35f5f-83ef-4c83-aa01-d46d44be95e5)
